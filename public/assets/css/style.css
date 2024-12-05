@@ -1249,9 +1249,7 @@ body.loaded {
 }
 
 .nav-top .social a {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+  padding: 15px;
   text-align: center;
   font-size: 12px;
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -2116,9 +2114,7 @@ body.loaded {
 }
 
 .intro-profile .box-img .social a {
-  width: 45px;
-  height: 45px;
-  line-height: 45px;
+  padding:20px;
   text-align: center;
   font-size: 12px;
   border: 1px solid rgba(255, 255, 255, 0.2);

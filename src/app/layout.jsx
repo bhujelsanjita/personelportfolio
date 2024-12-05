@@ -1,6 +1,7 @@
 import generateStylesheetObject from '@/Common/generateStylesheetsObject';
 import Lines from '@/components/Common/Lines';
 import React from 'react';
+// import '/assets/css/style.css';
 
 export const metadata = {
   title: 'Sanjita Bhujel - A Passionate Backend Developer',
@@ -17,6 +18,7 @@ export const metadata = {
 function Layout({ children }) {
   return (
     <body className="sub-bg">
+    
       <Lines />
       <div>
         <main>{children}</main>

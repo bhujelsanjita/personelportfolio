@@ -15,7 +15,7 @@ import Skills from '@/components/dark/home/skills';
 import Testimonials from '@/components/dark/home/testimonials';
 import Script from 'next/script';
 import React from 'react';
-
+import '../../public/assets/css/style.css'
 function Dark() {
   return (
     <div>
