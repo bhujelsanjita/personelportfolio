@@ -10,9 +10,9 @@ function Skills() {
       <div className="row">
         <div className="col-lg-4 valign">
           <div className="sec-head md-mb80 wow fadeIn">
-            <h6 className="sub-title opacity-7 mb-15">Our Skills</h6>
+            <h6 className="sub-title opacity-7 mb-15">My Skills</h6>
             <h3>
-              <span className="main-color">Awards</span> & Recognitions
+            I am <span className="main-color">Perfect</span> at
             </h3>
           </div>
         </div>
@@ -41,7 +41,7 @@ function Skills() {
           </div>
         </div>
       </div>
-      <div className="awards mt-100">
+      {/* <div className="awards mt-100">
         <div className="row md-marg">
           {data2.map((item, index) => (
             <div key={index} className="col-lg-4">
@@ -66,7 +66,7 @@ function Skills() {
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

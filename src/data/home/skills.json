@@ -1,22 +1,38 @@
 [
   {
-    "photo": "/assets/imgs/resume/s1.png",
-    "title": "",
-    "persent": "95%"
+    "photo": "/assets/imgs/resume/C++.svg.png",
+    "title": "C++",
+    "persent": "75%"
   },
   {
-    "photo": "/assets/imgs/resume/s2.png",
-    "title": "Development",
-    "persent": "90%"
+    "photo": "/assets/imgs/resume/C_Sharp.svg.png",
+    "title": "C#",
+    "persent": "70%"
   },
   {
-    "photo": "/assets/imgs/resume/s3.png",
-    "title": "Graphic Design",
+    "photo": "/assets/imgs/resume/nodeJs.png",
+    "title": "NodeJs",
     "persent": "85%"
+  },
+  {
+    "photo": "/assets/imgs/resume/Typescript.svg.png",
+    "title": "TypeScript",
+    "persent": "70%"
+  },
+  {
+    "photo": "/assets/imgs/resume/react.png",
+    "title": "React",
+    "persent": "80%"
+  },
+  {
+    "photo": "/assets/imgs/resume/php.svg",
+    "title": "PHP",
+    "persent": "60%"
   },
   {
     "photo": "/assets/imgs/resume/s4.png",
     "title": "WordPress",
-    "persent": "78%"
+    "persent": "70%"
   }
+ 
 ]

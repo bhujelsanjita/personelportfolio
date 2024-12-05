@@ -4,7 +4,7 @@ function Portfolio() {
   return (
     <div className="sec-box portfolio main-bg section-padding radius-15">
       <div className="sec-head mb-30 text-center">
-        <h6 className="sub-title opacity-7 mb-15">Our Portfolio</h6>
+        <h6 className="sub-title opacity-7 mb-15">My Portfolio</h6>
         <h3>
           Look at my <span className="main-color">Portfolio</span>
         </h3>

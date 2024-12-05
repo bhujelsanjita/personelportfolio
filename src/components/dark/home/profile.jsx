@@ -42,8 +42,7 @@ function Profile() {
         </div>
         <div className="col-lg-8 content main-bg">
           <h1>
-            Hello, I’m <span className="main-color">Sanjita Bhujel</span>, an enthusiasts Back-end
-            Developer. 
+            Hello, I’m <span className="main-color">Sanjita Bhujel</span>, a passionate backend developer! 
             {/* and{' '}
             <span className="bord">
               UX / UI Designer <i></i>

@@ -7,15 +7,14 @@ function Portfolio() {
       <div className="sec-head mb-30">
         <div className="row">
           <div className="col-lg-6">
-            <h6 className="sub-title opacity-7 mb-15">Our Portfolio</h6>
+            <h6 className="sub-title opacity-7 mb-15">My Portfolio</h6>
             <h3>
-              Look at my work & <br /> give us{' '}
-              <span className="main-color">your feedback</span>
+              Look at my <span className="main-color">Amazing</span> Work
             </h3>
           </div>
           <div className="col-lg-6 valign">
             <div className="go-more full-width d-flex justify-content-end">
-              <a href="/dark/works" className="d-flex">
+              <a href="https://github.com/bhujelsanjita?tab=repositories" className="d-flex">
                 <span>
                   View All Works{' '}
                   <svg
@@ -46,7 +45,7 @@ function Portfolio() {
                 </div>
                 <div className="cont mt-30 d-flex align-items-center">
                   <div>
-                    <span className="tag">Branding</span>
+                    <span className="tag">Repositories</span>
                     <h6 className="line-height-1">
                       <a href="single-project">{item.title}</a>
                     </h6>
